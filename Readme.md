@@ -41,6 +41,5 @@ And also some AutoML exciting results :D
 <p>UnderExposed</p>
 <img src='./images/underexposed.png' style='max-width: 200px' alt='underexposed'/>
 
-
 <p>#AndroidDevChallenge</p>
 <a href='https://github.com/aayusharora/Aftershoot/blob/master/cover-letter.md'>Cover Letter</a>
